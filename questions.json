@@ -1,0 +1,462 @@
+[
+  {
+    "category": "Animals",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What was the name of the Ethiopian Wolf before they knew it was related to wolves?",
+    "correct_answer": "Simien Jackel",
+    "incorrect_answers": [
+      "Ethiopian Coyote",
+      "Amharic Fox",
+      "Canis Simiensis"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Arcade Fire&#039;s &#039;The Suburbs&#039; won the Album of the Year award in the 2011 Grammys.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Greenland is covered with grass and Iceland covered with ice.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "category": "Celebrities",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is Doug Walker&#039;s YouTube name?",
+    "correct_answer": "The Nostalgia Critic",
+    "incorrect_answers": [
+      "The Angry Video Game Nerd",
+      "AngryJoeShow",
+      "The Cinema Snob"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the name of the currency in the &quot;Animal Crossing&quot; series?",
+    "correct_answer": "Bells",
+    "incorrect_answers": [
+      "Sea Shells",
+      "Leaves",
+      "Bugs"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In what year was the original Sonic the Hedgehog game released?",
+    "correct_answer": "1991",
+    "incorrect_answers": [
+      "1989",
+      "1993",
+      "1995"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "The vapor produced by e-cigarettes is actually water.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Au on the Periodic Table refers to which element?",
+    "correct_answer": "Gold",
+    "incorrect_answers": [
+      "Silver",
+      "Oxygen",
+      "Nickel"
+    ]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "All the following metal elements are liquids at or near room temperature EXCEPT:",
+    "correct_answer": "Beryllium",
+    "incorrect_answers": [
+      "Gallium",
+      "Caesium",
+      "Mercury"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "The following Spanish provinces are located in the northern area of Spain except:",
+    "correct_answer": "Murcia",
+    "incorrect_answers": [
+      "Asturias",
+      "Navarre",
+      "Le&oacute;n"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Excluding their instructor, how many members of Class VII are there in the game &quot;Legend of Heroes: Trails of Cold Steel&quot;?",
+    "correct_answer": "9",
+    "incorrect_answers": [
+      "6",
+      "10",
+      "3"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "boolean",
+    "difficulty": "hard",
+    "question": "In the game &quot;Melty Blood Actress Again Current Code&quot;, you can enter Blood Heat mode in Half Moon style.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which of these is NOT the name of a rival gang in the video game Saint&#039;s Row 2?",
+    "correct_answer": "The Zin Empire",
+    "incorrect_answers": [
+      "The Brotherhood",
+      "The Ronin",
+      "The Sons of Samedi"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Vietnam is the only country in the world that starts with V. ",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "category": "Politics",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "Denmark has a monarch.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Entertainment: Japanese Anime & Manga",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What was Ash Ketchum&#039;s second Pokemon?",
+    "correct_answer": "Caterpie",
+    "incorrect_answers": [
+      "Charmander",
+      "Pikachu",
+      "Pidgey"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which one of these action movies are shot entirely in one take?",
+    "correct_answer": "Victoria",
+    "incorrect_answers": [
+      "Ip Man 2",
+      "The Bourne Legacy",
+      "L&eacute;on: The Professional"
+    ]
+  },
+  {
+    "category": "Entertainment: Musicals & Theatres",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "In Les Mis&eacute;rables, who is Prison Code 24601?",
+    "correct_answer": "Jean Valjean",
+    "incorrect_answers": [
+      "Marius Pontmercy",
+      "Javert",
+      "Jean Claude Van Damme"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "boolean",
+    "difficulty": "easy",
+    "question": "In Team Fortress 2, being disguised as a scout or medic results in a speed boost.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "&quot;Mongolia&quot; was a part of the now non-existent U.S.S.R.",
+    "correct_answer": "False",
+    "incorrect_answers": [
+      "True"
+    ]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What port does HTTP run on?",
+    "correct_answer": "80",
+    "incorrect_answers": [
+      "53",
+      "443",
+      "23"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Antarctica is the largest desert in the world.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In what year was the movie &quot;Police Academy&quot; released?",
+    "correct_answer": "1984",
+    "incorrect_answers": [
+      "1986",
+      "1985",
+      "1983"
+    ]
+  },
+  {
+    "category": "Science: Computers",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In computing terms, typically what does CLI stand for?",
+    "correct_answer": "Command Line Interface",
+    "incorrect_answers": [
+      "Common Language Input",
+      "Control Line Interface",
+      "Common Language Interface"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In what year did the First World War end?",
+    "correct_answer": "1918",
+    "incorrect_answers": [
+      "1914",
+      "1916",
+      "1912"
+    ]
+  },
+  {
+    "category": "Entertainment: Japanese Anime & Manga",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In the ADV (English) Dub of the anime &quot;Ghost Stories&quot;, which character is portrayed as a Pentacostal Christian?",
+    "correct_answer": "Momoko Koigakubo",
+    "incorrect_answers": [
+      "Hajime Aoyama",
+      "Satsuki Miyanoshita",
+      "Mio Itai"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. president took part in the Potsdam Conference, where the Allies reached a peace settlement with Germany?",
+    "correct_answer": "Harry S. Truman",
+    "incorrect_answers": [
+      "Dwight D. Eisenhower",
+      "Franklin D. Roosevelt",
+      "Herbert Hoover"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the highest mountain in the world?",
+    "correct_answer": "Mt. Everest",
+    "incorrect_answers": [
+      "Mount Godwin Austen",
+      "Kangchenjunga",
+      "Annapurna"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Who won the &quot;Champions League&quot; in 1999?",
+    "correct_answer": "Manchester United",
+    "incorrect_answers": [
+      "Barcelona",
+      "Bayern Munich",
+      "Liverpool"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which of these bands was a featuring artist in Compton rapper Kendrick Lamar&#039;s 2017 album, &quot;DAMN.&quot;?",
+    "correct_answer": "U2",
+    "incorrect_answers": [
+      "Radiohead",
+      "Coldplay",
+      "Bon Jovi"
+    ]
+  },
+  {
+    "category": "Entertainment: Cartoon & Animations",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is Dipper&#039;s real name from &quot;Gravity Falls&quot;?",
+    "correct_answer": "Mason Pines",
+    "incorrect_answers": [
+      "Mable Pines",
+      "Jason Pines",
+      "Mark Pines"
+    ]
+  },
+  {
+    "category": "Entertainment: Film",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "Which actors made up the trio in &quot;The Good, the Bad, and the Ugly&quot;? ",
+    "correct_answer": "Clint Eastwood, Eli Wallach, and Lee Van Cleef",
+    "incorrect_answers": [
+      "Sergio Leone, Ennio Morricone, and Tonino Delli Colli",
+      "Yul Brynner, Steve McQueen, and Charles Bronson",
+      "Aldo Giuffr&egrave;, Mario Brega, and Luigi Pistilli"
+    ]
+  },
+  {
+    "category": "Geography",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What is the capital city of Slovenia?",
+    "correct_answer": "Ljubljana",
+    "incorrect_answers": [
+      "Maribor",
+      "Velenje",
+      "Trbovlje"
+    ]
+  },
+  {
+    "category": "Entertainment: Books",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In &quot;Little Women&quot;, which of the March sisters married Laurie?",
+    "correct_answer": "Amy",
+    "incorrect_answers": [
+      "Beth",
+      "Jo",
+      "Meg"
+    ]
+  },
+  {
+    "category": "Entertainment: Music",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "When was the 3rd album &quot;Notes from the Underground&quot; of the band &quot;Hollywood Undead&quot; released?",
+    "correct_answer": "2013",
+    "incorrect_answers": [
+      "2011",
+      "2014",
+      "2009"
+    ]
+  },
+  {
+    "category": "Sports",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which NBA player won Most Valuable Player for the 1999-2000 season?",
+    "correct_answer": "Shaquille O&#039;Neal",
+    "incorrect_answers": [
+      "Allen Iverson",
+      "Kobe Bryant",
+      "Paul Pierce"
+    ]
+  },
+  {
+    "category": "History",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "Which U.S. President was in office when the Gulf War began?",
+    "correct_answer": "George H. W. Bush",
+    "incorrect_answers": [
+      "Richard Nixon",
+      "George W. Bush ",
+      "Ronald Regan"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "multiple",
+    "difficulty": "hard",
+    "question": "What is the most commonly used noun in the English language?",
+    "correct_answer": "Time",
+    "incorrect_answers": [
+      "Home",
+      "Water",
+      "Man"
+    ]
+  },
+  {
+    "category": "General Knowledge",
+    "type": "boolean",
+    "difficulty": "medium",
+    "question": "Instant mashed potatoes were invented by Canadian Edward Asselbergs in 1962.",
+    "correct_answer": "True",
+    "incorrect_answers": [
+      "False"
+    ]
+  },
+  {
+    "category": "Entertainment: Video Games",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "In Skylanders Giants, why was Zaps&#039; Wow Pow named &quot;For Riley&quot; ?",
+    "correct_answer": "As a tribute to a fan who passed away",
+    "incorrect_answers": [
+      "As a reference to a film",
+      "After one of the writers of the game",
+      "After a voice actor"
+    ]
+  }
+]
